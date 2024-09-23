@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shafaque Arif</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px" align="right" alt="">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdshafaquearif&label=Profile%20views&color=0e75b6&style=flat" alt="mohdshafaquearif" /> </p>
 
